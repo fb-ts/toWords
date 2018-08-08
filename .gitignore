@@ -1,0 +1,8 @@
+### JetBrains project files
+.idea
+
+### Composer template
+composer.phar
+/vendor/
+/build/
+
